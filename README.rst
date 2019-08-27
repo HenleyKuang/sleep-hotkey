@@ -8,6 +8,11 @@ Installation
 
     pip install sleep-hotkey
 
+How to Use
+----------
+
+Call the *sleep* function and hold onto the *ESC* key if you want to stop the sleeping at any time.
+
 
 Examples
 --------
