@@ -4,6 +4,8 @@
 .. image:: https://badge.fury.io/py/sleep-hotkey.svg
    :target: https://pypi.org/project/sleep-hotkey/
 
+.. image:: https://img.shields.io/travis/HenleyKuang/sleep-hotkey.svg
+   :target: https://travis-ci.org/HenleyKuang/sleep-hotkey
 
 Sleep Hotkey
 ============
