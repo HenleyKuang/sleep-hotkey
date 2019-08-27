@@ -9,4 +9,4 @@ install:
     - pip install .[testing]
 # command to run tests
 script:
-  - sudo -s && python -m pytest # or py.test for Python versions 3.5 and below
+  - sudo env "PATH=$PATH" pytest # or py.test for Python versions 3.5 and below
