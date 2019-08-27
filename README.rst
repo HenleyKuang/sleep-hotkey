@@ -11,3 +11,8 @@ Installation
 
 Examples
 --------
+
+.. code-block:: python
+
+    from sleep_hotkey.sleep_hotkey import sleep
+    sleep(10)
